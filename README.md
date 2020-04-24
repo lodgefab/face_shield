@@ -18,6 +18,12 @@ https://www.facebook.com/groups/3363690166994379/
 ![DSCF4123](https://user-images.githubusercontent.com/63788611/80191761-233e9b80-8651-11ea-8b97-e21e9edfe7a4.jpg)
 
 
+多くのシールドを提供すると同時に、医療従事者にアンケートをお願いしています。
+プロダクト製作に置けるユーザー情報として、3D PRINT FACASHIELDグループに展開しています。
+https://note.com/lodge/n/n0c47279e5f6b
+
+現在、製作次第、事前コミュニケーションのあった医療現場へ優先的にお届けしています。現段階でのご提供受付はいたしかねますのでご了承ください。
+
 -------------------------------------
 
 Making Face Shield with clear file 
@@ -35,11 +41,14 @@ We developed this faceshield so that we can make alot and deliver quickly until 
 The idea useing clear file is from Osaka University.
 There is a facebook community caled 3D PRINT FACASHIELD which Volunteers develop and print faceshield by thier own 3D printers and deliver to medical field.We drow on this community.
 
-
 http://www.project-engine.org/faceshield.html
 https://www.facebook.com/groups/3363690166994379/
 
+We offer faceshileds and ask medical workers to fill in the survey about faceshiled.
+We provide this results　3D PRINT FACASHIELDcommunity as a user information.
+https://note.com/lodge/n/n0c47279e5f6b
+
+Now we deliver faceshileds to medical field where we have communication before we start making.
 
 
-![Faceshield説明書](https://user-images.githubusercontent.com/63788611/80191695-0904bd80-8651-11ea-9af7-c6ab9f7da343.jpg)
 
