@@ -30,6 +30,14 @@ https://note.com/lodge/n/n0c47279e5f6b
 
 -------------------------------------
 
+2020/04/28
+---
+
+We now make face shield based on the model designed by Mr.Kawakami who is associate professor of engineering department in Yamagata University.
+
+https://drive.google.com/drive/folders/1wEj9XmAZMVRQ69uer5_rUwp2VNSdNDtg
+
+
 Making Face Shield with clear file 
 Frame is made from acrylic.
 We try to make Face shield with laser cutter.
