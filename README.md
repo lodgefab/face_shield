@@ -1,6 +1,14 @@
 # face_shield
 Making face shield with laser cutter
 
+2020/04/28
+---
+山形大学工学部、川上准教授のモデルを少しアレンジしたもの量産しております。
+https://drive.google.com/drive/folders/1wEj9XmAZMVRQ69uer5_rUwp2VNSdNDtg
+
+
+-----
+
 クリアファイルを使った簡易のフェイスシールドです。
 フレームはアクリルを使い、レーザーカッターでの制作を試みます。様々な方が3Dプリンタでのフェイスシールドを作られています。
 ３Dプリンタよりも少しハードルを下げて、生産のスピードも一つあたり1-2時間でなく3-4分でできればとの提案です。
@@ -12,9 +20,6 @@ Making face shield with laser cutter
 
 http://www.project-engine.org/faceshield.html
 https://www.facebook.com/groups/3363690166994379/
-
-![DSCF4124](https://user-images.githubusercontent.com/63788611/80191216-5b91aa00-8650-11ea-884e-03e345c944c9.jpg)
-![DSCF4123](https://user-images.githubusercontent.com/63788611/80191761-233e9b80-8651-11ea-8b97-e21e9edfe7a4.jpg)
 
 
 多くのシールドを提供すると同時に、医療従事者にアンケートをお願いしています。
